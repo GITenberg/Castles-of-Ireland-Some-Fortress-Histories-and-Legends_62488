@@ -1,5 +1,8 @@
 _repo: Castles-of-Ireland-Some-Fortress-Histories-and-Legends_62488
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62488-h/images/cover.jpg
 creator:
   author:
     agent_name: Adams, Constance Louisa
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '51968'
     url: http://www.gutenberg.org/2009/agents/51968
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62488#Castles-of-Ireland-Some-Fortress-Histories-and-Legends
 gutenberg_issued: '2020-06-27'
 gutenberg_type: Text
 identifiers:
